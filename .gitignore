@@ -1,0 +1,43 @@
+# Maven
+target/
+
+# Logs
+logs/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment / Secrets
+.env
+*.properties.local
+secrets.properties
+
+# Test Reports
+surefire-reports/
+allure-results/
+allure-report/
+
+# Selenium / Drivers
+drivers/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Screenshots
+screenshots/
+
+# Generated files
+*.class
